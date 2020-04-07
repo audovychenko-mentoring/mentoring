@@ -29,4 +29,8 @@ But I'm not the only one
 I hope someday you'll join us
 And the world will live as one!!!
 
+<<<<<<< HEAD
 LA 19
+=======
+LA
+>>>>>>> c05993306a59af57a5e93fb63a63c803e434e947
